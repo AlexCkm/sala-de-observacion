@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">myFigma(no)</string>
+    <string name="Demo">Demo</string>
+    <string name="EMail">E-Mail</string>
+    <string name="Password">Password</string>
+    <string name="Entrar">Entrar</string>
+    <string name="Welcome">WELCOME</string>
+</resources>
